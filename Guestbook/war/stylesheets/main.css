@@ -1,0 +1,16 @@
+body {
+    color: rgb(20%, 20%, 20%);
+    background-color: rgb(95%, 95%, 95%);
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div { 
+    line-height: 1.4em; 
+}
+
+td { 
+    font-size: small;
+}
